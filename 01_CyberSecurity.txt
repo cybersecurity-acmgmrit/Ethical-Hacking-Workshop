@@ -1,0 +1,47 @@
+Topics to be covered
+    * What is CyberSecurity?
+    * Why CyberSecurity?
+    * CyberAttacks
+        - Malware
+            ~ Spyware
+            ~ Ransomware
+            ~ virus, trojan, worms
+        - Phishing
+        - Man-in-the-Middle-Attack (EavesDropping Attack) (MitM)
+        - Denial-of-Service(DoS) and Distributed Denial-of-Service(DDoS)
+        - Code Injections(SQL, NoSQL, OS, )
+        - Cross-site Scripting(XSS)
+        - Zero-Day Attacks
+    * Getting Started (Skills required)
+        - Programming knowledge
+        - Computer Networking
+        - Operating System
+        - Exploitation Techniques
+        - Linux Distributions(kali-linux)
+
+        - Cryptography
+        - Reverse Engineering
+        - Taking advantage of Existing tools
+
+    * Penetration Testing
+        - Phases of Ethical Hacking
+        - OWASP TOP10
+    * courses and Certifications
+    * Various Job roles
+    * Add-ons
+        - Bug-Bounty
+            ~ bugcrowd
+            ~ hackerone
+            ~ BountyFactory
+            ~ BugBountyjp
+
+
+What is cyber Security?
+    Practice of protecting and Recovering Systems, Networks, programs from Digital attacks
+
+Why Cyber Security?
+    * Information is wealth, so protection of information is necessary
+    * Data breaches compromises the user credentials and company's personal data
+
+    * Here is a list of data breaches in 2020
+        https://www.identityforce.com/blog/2020-data-breaches

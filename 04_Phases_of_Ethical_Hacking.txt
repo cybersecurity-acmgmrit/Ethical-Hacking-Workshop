@@ -1,0 +1,15 @@
+Phases of Ethical Hacking
+    * Information gathering
+        - Active
+        - Passive
+            ~ Information Gathering by googling or from social media
+            ~ hunter.io : website for gathering gmails from a specific organisation
+            ~ WappAnalyser : chrome extension which gives the details of a website
+    * Scanning & Enumeration
+        - nmap
+        - Testing Guide : https://owasp.org/www-pdf-archive/OTGv4.pdf
+        - Testing Guide checklist: https://github.com/tanprathan/OWASP-Testing-Checklist/raw/master/OWASPv4_Checklist.xlsx
+    * Gaining Access
+        - Exploitation
+    * Maintaining Access
+    * Covering Tracks

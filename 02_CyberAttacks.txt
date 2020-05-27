@@ -1,0 +1,63 @@
+    Common types of Cyber Attacks
+    ``````````````````````````````
+
+* Malware ( Malicious Software )
+    Malwares enters into a network or system via vulnerability or by
+    social engineering attacks like clicking unknown links that downloads
+    malware into our system
+
+    - Spyware
+        ~ Gathers Information and sends to the hacker without the victims knowledge
+    - Ransomware
+        ~ Name itself suggests that it is a type of malware which encrypts
+          victims data and made inaccessible to the victim. Attacker demands
+          some ransome inorder to decrypt the data
+    - Virus and
+        ~ Modifies the existing code so that system working fails
+        ~ As it name suggests it replicates itself and attacks other devices
+    - Worms
+        ~ Worms are also similar to viruses attacking on a network
+
+* Phishing
+    - Phishing is the practice of sending fraudulent communications that
+      appear to come from a reputable source, usually through email.
+
+    - The goal is to steal sensitive data like credit card and login
+      information or to install malware on the victim’s machine.
+
+    - Phishing is an increasingly common cyberthreat
+
+* Man-in-the-Middle-Attack (MitM) (Eavesdropping Attack)
+    - In MitM attacks attacker pretends himself as the original source or
+      destination but serves in between you and the server so that he can
+      capture all your traffic.
+
+    - Common MitM Attacks
+        ~ On unsecure public Wi-Fi, attackers can insert themselves between
+          a visitor’s device and the network. Without knowing,
+          the visitor passes all information through the attacker.
+
+        ~ Once malware has breached a device, an attacker can install
+          a software to process all of the victim’s information.
+
+* Denial-of-service-attack
+    - A denial-of-service attack floods systems, servers, or networks with
+      traffic to exhaust resources and bandwidth
+
+    - As a result, the system is unable to fulfill legitimate requests.
+
+    - Attackers can also use multiple compromised devices to launch this attack.
+      This is known as a distributed-denial-of-service (DDoS) attack.
+
+* Code Injections
+    - SQL Injection
+        ~ malicious SQL statements are inserted into an entry field for execution
+    - Cross-site-Scripting (XSS)
+
+* Zero-Day-Attack
+    - It is an attack that launched on the same as vulnerability founds means
+
+    - When a vulnerability is found in a software attacking the software and
+      it's users before releasing a patch for it
+
+    - Thatswhy we have to use upto date softwares and apps

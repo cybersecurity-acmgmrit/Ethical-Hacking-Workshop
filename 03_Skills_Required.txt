@@ -1,0 +1,114 @@
+        Skills Required for an Ethical hacker
+        `````````````````````````````````````
+
+* Programming knowledge
+* Computer Networking
+* Operating System
+* Exploitation Techniques
+* Linux Distributions(kali-linux)
+
+* Cryptography
+* Reverse Engineering
+* Taking advantage of Existing tools
+
+
+Programming Knowledge
+`````````````````````
+    0. What is a programming language?
+        It is a language used to talk with computers
+        (As we have many languages to speak, similarly computers also have many programming languages)
+
+    1. Actually there is know soln for this problem
+        (As an ethical hacker one must have basic understanding of all programming languages)
+    2. One should able to understand the syntax and logic behind the existing code
+    3. For building custom softwares and tools of your own
+    4. Attempting to reverse engineer code and finding Exploits in code
+    5. For solving a problem sometimes we need programming knowledge
+    6. Few Programming languages are
+        * C/C++
+        * Python
+        * HTML
+        * JavaScript
+        * PHP
+        * SQL
+        * Bash
+        * Assembly
+
+        C/C++
+        `````
+            - 90% of all Operating System and other language libraries today we use are written in C/C++
+            (Even all the background of python runs on C)
+        Python
+        ``````
+            - Easy to learn
+            - Automating tasks (Interpreted Language)
+            - Wide language used and top trending language
+            - Also used as Backend language in web(FrameWorks: flask, django)
+        HTML
+        ````
+            - All the web pages contains HTML so understanding of HTML is necessary
+              (Login forms and other data entry methods on the web use HTML forms to get data.
+               Been able to write and interpret HTML, makes it easy for you to identify and
+               exploit weaknesses in the code.)
+        PHP
+        ```
+            - PHP is the most popular Backend language for web
+              (Most websites today are coded in PHP)
+              (But increasing in trends people are moving to new language like python(django) and JavaScript(Node))
+        JavaScript
+        ``````````
+            - Almost all websites use frontend as JavaScript
+            - There is a most famous exploit called (CROSS SITE SCRIPTING)
+            - javascript is used as both frontend and backend language now-a-days(FrameWorks:Node)
+        SQL
+        ```
+            - Everything in the internet is strored in databases
+            - SQL is the language of the databases
+              (For talking with databases SQL knowledge is necessary)
+            - increasing in trends developers are choosing new database technologies like
+                ^ postgresql
+                ^ NOSQL...
+            - Well known popular attack known as SQL Injection
+            - As it is a client side language we are able to perform client side attacks using JS
+        Bash
+        ````
+            - Most Ethical Hackers use linux Distributions
+            - Linux terminal provides programming on kernal
+            - for writing terminal code BASH scripting is used
+            - For automating daily tasks Bash can be used
+        Assembly
+        ````````
+            - For attacking at processor level Assembly language is important
+            - As processor can understand Assembly language only
+
+
+Computer Networking
+```````````````````
+    1. One should how data is being transferred from one device to another device
+        (so that we can manipulate and can perform man in the middle attacks)
+        (As a client we make requests to the server and server responds back with
+         a response inorder to understand all this phenomenon Networking is necessary)
+    2. Basic knowledge of protocols and ports are important
+        (Computer Networks is the Backbone of the internet to understand things
+         which are going on the internet networking knowledge is mandatory as internet
+         follows those protocols we can find vulnerabilities and exploit them)
+    3. During Information Gathering phase one should able to know open/closed ports os
+        and other details of the target System/Server
+        ( For System scanning and knowledge of ports networking knowledge is necessary)
+        (Scanning is a set of procedures for identifying live hosts, ports & services)
+    4. Sniffing packets
+        (Monitering & capturing packets through a given network)
+        (Example: phone tapping)
+
+
+Linux Distributions
+```````````````````
+    1. Most web servers are run on the Linux operating system.
+       (As an ethical hacker, one of your most frequent roles will be to gain access to the server.
+        This automatically makes Linux a must-have skill for ethical hacking.
+        You should have an in-depth knowledge and understanding of this operating system.)
+    2. Some of the linux destros for hackers are
+        - Kali Linux
+        - BackBox
+        - Parrot Security OS
+        - BlackArch
