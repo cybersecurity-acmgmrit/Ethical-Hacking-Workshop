@@ -26,6 +26,14 @@ Topics to be covered
     * Penetration Testing
         - Phases of Ethical Hacking
         - OWASP TOP10
+        - Tools
+        - Guides
+            - OWASP Web Security Testing Guide
+                https://owasp.org/www-project-web-security-testing-guide/
+            - Testing Guide
+                https://owasp.org/www-pdf-archive/OTGv4.pdf
+            - Testing Guide checklist
+                https://github.com/tanprathan/OWASP-Testing-Checklist/raw/master/OWASPv4_Checklist.xlsx
     * courses and Certifications
     * Various Job roles
     * Add-ons
