@@ -99,6 +99,10 @@ Computer Networking
     4. Sniffing packets
         (Monitering & capturing packets through a given network)
         (Example: phone tapping)
+    5. Understanding and performing attacks like DoS
+        (Denial of Service is an attack performed at the physical layer which makes the
+         Server busy by reaching maximum number of user or by exhausting band width
+         All the above stuff is networking concepts) 
 
 
 Linux Distributions
