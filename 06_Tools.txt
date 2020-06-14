@@ -4,3 +4,22 @@
 * Wire Shark
 * SQL Map
 * Wfuzz
+* Metasploit 
+* aircrack-ng
+
+
+Nmap
+`````
+    Used to find open ports and os
+
+Metasploit
+```````````
+    Used for injecting/launching attacks on the target
+    
+aircrack-ng
+````````````
+    Suite of tools used for wireless pentesting
+    
+Wireshark
+``````````
+    Used to intercept network traffic 
