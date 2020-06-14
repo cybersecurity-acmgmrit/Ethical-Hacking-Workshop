@@ -1,1 +1,16 @@
+What is Reconnaissance?
+    Gathering information about the target to exploit 
 
+Passive Footprinting 
+    Gaining public information about the target
+    
+Active Footprinting
+    Social engineering and human interaction 
+    
+Vulnerability Research 
+    National Vulnerability Database 
+        http://www.nvd.nist.gov
+    CVE
+        http://www.cvedetails.com
+    Securiteam
+        http://www.securiteam.com
