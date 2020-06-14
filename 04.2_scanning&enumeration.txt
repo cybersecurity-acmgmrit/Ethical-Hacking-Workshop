@@ -1,1 +1,16 @@
+Nmap
+    * open-source tool 
+    * used for port scanning 
+        - finding live targets
+        - open ports (services) 
+        - Operating System 
+    * www.nmap.org
 
+Ports
+    * 1 - 65535 ports available 
+    * some commonly used ports
+        - 21 ftp
+        - 22 ssh
+        - 80 http
+        - 443 https
+        - 3306 sql .... 
