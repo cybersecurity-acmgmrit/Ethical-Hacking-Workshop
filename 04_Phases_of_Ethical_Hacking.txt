@@ -1,5 +1,5 @@
 Phases of Ethical Hacking
-    * Information gathering
+    * Information gathering(Reconnaissance)
         - Active
         - Passive
             ~ Information Gathering by googling or from social media
