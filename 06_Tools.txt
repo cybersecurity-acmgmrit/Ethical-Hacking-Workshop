@@ -6,6 +6,7 @@
 * Wfuzz
 * Metasploit 
 * aircrack-ng
+* nikto
 
 
 Nmap
