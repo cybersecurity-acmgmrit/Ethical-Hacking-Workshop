@@ -34,6 +34,9 @@ Topics to be covered
                 https://owasp.org/www-pdf-archive/OTGv4.pdf
             - Testing Guide checklist
                 https://github.com/tanprathan/OWASP-Testing-Checklist/raw/master/OWASPv4_Checklist.xlsx
+        - Attacks
+            - https://owasp.org/www-community/attacks/
+          
     * courses and Certifications
     * Various Job roles
     * Add-ons
